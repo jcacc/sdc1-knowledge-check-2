@@ -5,7 +5,7 @@
 3. Create a new object and then create another object that inherits from it.  Each object should have at least 1 property.  Example from the pet store: first class is Animal, second class is Cat and it inherits from Animal.
 4. Paste the following template in the Program file:
 
-```
+
 Console.WriteLine("How many records do you want to add? ");
 var numberOfRecords = int.Parse(Console.ReadLine());
 
@@ -25,7 +25,7 @@ for (int i = 0; i < numberOfRecords; i++)
 // Print out the list of records using Console.WriteLine()
 
 
-```
+
  
 5. Replace “MyClass” with the child class that you made in step 2.  
 6. You should allow the user to add data for every property in your class.  So with the cat example, the user should be able to add values for every property of Cat which includes the properties from Animal.

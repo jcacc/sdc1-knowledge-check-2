@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\bin\Debug\net6.0\SDC1-KC2.exe
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\bin\Debug\net6.0\SDC1-KC2.deps.json
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\bin\Debug\net6.0\SDC1-KC2.runtimeconfig.json
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\bin\Debug\net6.0\SDC1-KC2.dll
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\bin\Debug\net6.0\SDC1-KC2.pdb
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.dll
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\refint\SDC1-KC2.dll
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.pdb
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\SDC1-KC2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\sdc1-knowledge-check-2\SDC1-KC2\SDC1-KC2\obj\Debug\net6.0\ref\SDC1-KC2.dll
