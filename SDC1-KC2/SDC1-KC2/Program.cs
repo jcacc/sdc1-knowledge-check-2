@@ -13,13 +13,8 @@ namespace SDC1_KC2
 
     internal class Program
     {
-
-
         private static void Main(string[] args)
         {
-
-
-
             Console.WriteLine("How many shirts do you want to add? ");
             var numberOfRecords = int.Parse(Console.ReadLine());
 
@@ -31,7 +26,7 @@ namespace SDC1_KC2
                 var entry = new Shirt();
 
                 WriteLine("Enter the shirt brand: ");
-                entry.Brand = ReadLine();
+                entry.Brand = ReadLine().ToUpper();
 
                 WriteLine("Enter a short description of the design: ");
                 entry.DesignDescription = ReadLine();
@@ -41,19 +36,15 @@ namespace SDC1_KC2
 
                 WriteLine("What size is the shirt?: (S, M, L, XL)");
                 entry.Size = ReadLine().ToUpper();
-
-                            
-
-
-
-
-
-               shirtList.Add(new Shirt() { Brand = entry.Brand, DesignDescription = entry.DesignDescription, Color = entry.Color, Size = entry.Size });
+                
+                
+                shirtList.Add(new Shirt() { Brand = entry.Brand, DesignDescription = entry.DesignDescription, Color = entry.Color, Size = entry.Size });
 
 
             }
             Clear();
             WriteLine("These are the shirts you entered...");
+            WriteLine("");
             // Print out the list of records using Console.WriteLine()
             foreach (var entry in shirtList)
             {
