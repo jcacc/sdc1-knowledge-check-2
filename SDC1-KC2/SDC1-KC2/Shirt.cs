@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace SDC1_KC2
 {
-    public class Shirt
+    public class Shirt : Clothing
     {
         public string Brand { get; set; }
         public string DesignDescription { get; set; }
         public string Color { get; set; }
         public string Size { get; set; }
-
-
-
-
-
-
+                
     }
+    
 }
+
+

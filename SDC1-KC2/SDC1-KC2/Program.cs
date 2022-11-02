@@ -36,9 +36,12 @@ namespace SDC1_KC2
 
                 WriteLine("What size is the shirt?: (S, M, L, XL)");
                 entry.Size = ReadLine().ToUpper();
+
+                WriteLine("Is it a shirt? (Y or N)");
+                bool isShirt = ReadLine().ToUpper() == "Y" ? true : false;
                 
                 
-                shirtList.Add(new Shirt() { Brand = entry.Brand, DesignDescription = entry.DesignDescription, Color = entry.Color, Size = entry.Size });
+                shirtList.Add(new Shirt() { Brand = entry.Brand, DesignDescription = entry.DesignDescription, Color = entry.Color, Size = entry.Size, isShirt = isShirt });
 
 
             }
@@ -54,6 +57,7 @@ namespace SDC1_KC2
                 WriteLine("Description: " + entry.DesignDescription);
                 WriteLine("Color: " + entry.Color);
                 WriteLine("Size: " + entry.Size);
+                WriteLine("Is a shirt? " + entry.isShirt);
                 WriteLine("");
 
 
